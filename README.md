@@ -42,6 +42,21 @@
 | Java              | MySQL                   | VS Code          |
 | SQL               | PostgreSQL          |                  |
 | C                 |                           |                  |
+---
+
+### 🛠️ Tecnologías usadas en los proyectos
+
+| Tecnología         | Uso en los proyectos                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------------|
+| **Java**           | Utilizado para desarrollar la lógica y la interfaz del sistema de simulación de capas del modelo OSI. |
+| **React**          | Creación de la interfaz de usuario dinámica para la plataforma de marcación de asistencia.             |
+| **TypeScript**     | Mejora la robustez y mantenibilidad del frontend en la plataforma de asistencia.                      |
+| **Firebase**       | Autenticación y almacenamiento en tiempo real de los datos de asistencia.                             |
+| **HTML/CSS**       | Estructura y estilos de la plataforma web de asistencia.                                              |
+| **Git**            | Control de versiones y colaboración en ambos proyectos.                                               |
+| **VS Code**        | Editor principal utilizado para el desarrollo de los proyectos.                                       |
+
+---
 
 ---
 
