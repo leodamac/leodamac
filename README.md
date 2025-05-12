@@ -18,13 +18,13 @@
 - **Descripción:** Aplicación que permite visualizar el funcionamiento de las capas del modelo OSI.
 - **Tecnologías:** Java
 - **Estado:** 🟢 Finalizado
-- **Enlace:** [Ver proyecto](#) <!-- Reemplaza # por el enlace real -->
+- **Enlace:** [Ver proyecto](https://github.com/leodamac/Proyecto-Redes)
 
 ### 2. Sistema de Marcación de Asistencia
 - **Descripción:** Plataforma para gestionar asistencias.
 - **Tecnologías:** Firebase, TypeScript, React, HTML, CSS
 - **Estado:** 🟢 Finalizado
-- **Enlace:** [Ver proyecto](#) <!-- Reemplaza # por el enlace real -->
+- **Enlace:** [Ver proyecto](https://github.com/leodamac/Voluntariado)
 
 ---
 
@@ -42,12 +42,10 @@
 
 ## 🖼️ Capturas de Pantalla
 
-### Gestor de Tareas Inteligente
-<!-- Puedes insertar imágenes así: -->
-<!-- ![Gestor de Tareas](ruta/a/la/imagen.png) -->
+### Sistema de simulación de envío de datos entre diferentes capas
+![TCP/IP Model with Physical Layer](https://github.com/leodamac/Proyecto-Redes/blob/main/Grupo7_RedesDeDatos/src/main/resources/tcpip.jpg)
 
-### Sistema de Reservas
-<!-- ![Sistema de Reservas](ruta/a/la/imagen.png) -->
+### Sistema de Marcación de Asistencia
 
 ---
 
