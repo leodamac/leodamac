@@ -54,5 +54,5 @@ Hola soy Leonardo Macías estudiante de computación de la Escuela Superior Poli
 ## 📬 Contacto
 
 - **Correo institucional**: leodamac@espol.edu.ec
-- **LinkedIn**: linkedin.com/in/leodamac
-- **GitHub**: [github.com/leodamac]
+- **LinkedIn**: [linkedin.com/in/leodamac](linkedin.com/in/leodamac)
+- **GitHub**: [github.com/leodamac](github.com/leodamac)
