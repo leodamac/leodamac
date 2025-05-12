@@ -1,58 +1,59 @@
+# 👨‍💻 Leonardo Macías
 
-# 👨‍💻 Mi Página Personal
-
-Hola soy Leonardo Macías estudiante de computación de la Escuela Superior Politécnica del Litoral.
+¡Hola! Soy Leonardo Macías, estudiante de Computación en la Escuela Superior Politécnica del Litoral (ESPOL).
 
 ---
 
-## 📂 Secciones
+## 📂 Índice
 
 - [Proyectos](#proyectos)
-- [Tecnologías](#️-tecnologías)
-- [Capturas de Pantalla](#️-capturas-de-pantalla)
-- [Contacto](#-contacto)
+- [Tecnologías](#tecnologías)
+- [Capturas de Pantalla](#capturas-de-pantalla)
+- [Contacto](#contacto)
 
 ---
 
 ## 🚀 Proyectos
 
-### 1. **Sistema de simulación envío de datos entre diferentes capas**
-- **Descripción**: Aplicación que permite visualizar el funcionamiento de las capas basado en OSI.
-- **Tecnologías**: Java
-- **Estado**: 🟢 Finalizado
-- **Enlace**: Ver proyecto
+### 1. Sistema de simulación de envío de datos entre diferentes capas
+- **Descripción:** Aplicación que permite visualizar el funcionamiento de las capas del modelo OSI.
+- **Tecnologías:** Java
+- **Estado:** 🟢 Finalizado
+- **Enlace:** [Ver proyecto](#) <!-- Reemplaza # por el enlace real -->
 
-### 2. **Sistema de Marcación de asistencia**
-- **Descripción**: Plataforma para gestionar asistencias.
-- **Tecnologías**: Firebase, Typescript, React, HTML, CSS
-- **Estado**: 🟢 Finalizado
-- **Enlace**: Ver proyecto
+### 2. Sistema de Marcación de Asistencia
+- **Descripción:** Plataforma para gestionar asistencias.
+- **Tecnologías:** Firebase, TypeScript, React, HTML, CSS
+- **Estado:** 🟢 Finalizado
+- **Enlace:** [Ver proyecto](#) <!-- Reemplaza # por el enlace real -->
 
 ---
 
 ## 🛠️ Tecnologías
 
-| Lenguajes     | Frameworks/Bibliotecas | Herramientas |
-|---------------|------------------------|--------------|
-| JavaScript    | React                  | Git          |
-| Python        | Angular                |              |
-| Java          | Flutter                | Figma        |
-| SQL           | PostgreSQL, MySQL      | VS Code      |
-| C             |  ||
+| Lenguajes         | Frameworks/Bibliotecas     | Herramientas     |
+|-------------------|---------------------------|------------------|
+| JavaScript        | React                     | Git              |
+| Python            | Angular                   | Figma            |
+| Java              | Flutter                   | VS Code          |
+| SQL               | PostgreSQL, MySQL         |                  |
+| C                 |                           |                  |
+
 ---
 
 ## 🖼️ Capturas de Pantalla
-### Gestor de Tareas Inteligente
 
+### Gestor de Tareas Inteligente
+<!-- Puedes insertar imágenes así: -->
+<!-- ![Gestor de Tareas](ruta/a/la/imagen.png) -->
 
 ### Sistema de Reservas
-
-
+<!-- ![Sistema de Reservas](ruta/a/la/imagen.png) -->
 
 ---
 
 ## 📬 Contacto
 
-- **Correo institucional**: leodamac@espol.edu.ec
-- **LinkedIn**: [linkedin.com/in/leodamac](linkedin.com/in/leodamac)
-- **GitHub**: [github.com/leodamac](github.com/leodamac)
+- **Correo institucional:** [leodamac@espol.edu.ec](mailto:leodamac@espol.edu.ec)
+- **LinkedIn:** [linkedin.com/in/leodamac](https://linkedin.com/in/leodamac)
+- **GitHub:** [github.com/leodamac](https://github.com/leodamac)
