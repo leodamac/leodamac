@@ -26,6 +26,11 @@
 - **Estado:** 🟢 Finalizado
 - **Enlace:** [Ver proyecto](https://github.com/leodamac/Voluntariado)
 
+### 3. 
+- **Descripción:** 
+- **Tecnologías:** 
+- **Estado:** 🟢 Finalizado
+- **Enlace:** [Ver proyecto](https://github.com/leodamac/)
 ---
 
 ## 🛠️ Tecnologías
@@ -34,8 +39,8 @@
 |-------------------|---------------------------|------------------|
 | JavaScript        | React                     | Git              |
 | Python            | Angular                   | Figma            |
-| Java              | Flutter                   | VS Code          |
-| SQL               | PostgreSQL, MySQL         |                  |
+| Java              | MySQL                   | VS Code          |
+| SQL               | PostgreSQL          |                  |
 | C                 |                           |                  |
 
 ---
