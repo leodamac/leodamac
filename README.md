@@ -1,4 +1,3 @@
-# 👨‍💻 Leonardo Macías
 
 ¡Hola! Soy Leonardo Macías, estudiante de Computación en la Escuela Superior Politécnica del Litoral (ESPOL).
 
