@@ -1,16 +1,16 @@
 
 # 👨‍💻 Mi Página Personal
 
-Hola soy Leonardo Macías estudiante de computación.
+Hola soy Leonardo Macías estudiante de computación de la Escuela Superior Politécnica del Litoral.
 
 ---
 
 ## 📂 Secciones
 
 - [Proyectos](#proyectos)
-- Tecnologías
-- Capturas de Pantalla
-- Contacto
+- [Tecnologías](#️-tecnologías)
+- [Capturas de Pantalla](#️-capturas-de-pantalla)
+- [Contacto](#-contacto)
 
 ---
 
@@ -24,10 +24,9 @@ Hola soy Leonardo Macías estudiante de computación.
 
 ### 2. **Sistema de Marcación de asistencia**
 - **Descripción**: Plataforma para gestionar asistencias.
-- **Tecnologías**: Firebase, Typescript
+- **Tecnologías**: Firebase, Typescript, React, HTML, CSS
 - **Estado**: 🟢 Finalizado
 - **Enlace**: Ver proyecto
-
 
 ---
 
@@ -55,5 +54,5 @@ Hola soy Leonardo Macías estudiante de computación.
 ## 📬 Contacto
 
 - **Correo institucional**: leodamac@espol.edu.ec
-- **LinkedIn**: linkedin.com/in/miusuario
+- **LinkedIn**: linkedin.com/in/leodamac
 - **GitHub**: [github.com/leodamac]
