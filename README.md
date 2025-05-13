@@ -26,11 +26,11 @@
 - **Estado:** 🟢 Finalizado
 - **Enlace:** [Ver proyecto](https://github.com/leodamac/Voluntariado)
 
-### 3. 
-- **Descripción:** 
-- **Tecnologías:** 
+### 3. Página para el aprendizaje de los tiempos verbales en inglés
+- **Descripción:** Permite aprender los tiempos verbales en inglés
+- **Tecnologías:** TypeScript, React, HTML, CSS
 - **Estado:** 🟢 Finalizado
-- **Enlace:** [Ver proyecto](https://github.com/leodamac/)
+- **Enlace:** [Ver proyecto](https://github.com/leodamac/english-class)
 ---
 
 ## 🛠️ Tecnologías
@@ -65,7 +65,9 @@
 ### Sistema de simulación de envío de datos entre diferentes capas
 ![TCP/IP Model with Physical Layer](https://github.com/leodamac/Proyecto-Redes/blob/main/Grupo7_RedesDeDatos/src/main/resources/tcpip.jpg)
 
-### Sistema de Marcación de Asistencia
+### Página para el aprendizaje de los tiempos verbales en inglés
+![image](https://github.com/user-attachments/assets/0822681b-52a1-4d89-a194-cdfaa5cd4ba1)
+
 
 ---
 
