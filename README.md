@@ -65,6 +65,9 @@
 ### Sistema de simulación de envío de datos entre diferentes capas
 ![TCP/IP Model with Physical Layer](https://github.com/leodamac/Proyecto-Redes/blob/main/Grupo7_RedesDeDatos/src/main/resources/tcpip.jpg)
 
+### 2. Sistema de Marcación de Asistencia
+![Sistema de Marcación de Asistencia](https://github.com/user-attachments/assets/aaedf306-183d-405d-a0d0-ada5f48f2296)
+
 ### Página para el aprendizaje de los tiempos verbales en inglés
 ![image](https://github.com/user-attachments/assets/0822681b-52a1-4d89-a194-cdfaa5cd4ba1)
 
